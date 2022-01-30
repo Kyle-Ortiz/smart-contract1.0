@@ -20,3 +20,4 @@ contract NFT is ERC721 {
         return newItemId;
     }
 }
+//need wallet blance to upload to test nest
